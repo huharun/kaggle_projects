@@ -16,3 +16,14 @@
 - Performed EDA using pandas, seaborn, and matplotlib to visualize sales trends by region, genre, platform, publisher, and year.
 - Built a Random Forest Regression model to predict global sales based on Year, NA_Sales, EU_Sales, JP_Sales, Other_Sales, and platform/genre features.
 - Evaluated the model (R² ≈ 0.82, RMSE ≈ 0.86) showing strong predictive performance.
+
+
+## Google Search Trends — Data Analysis & ML Prediction
+
+- Loaded and combined multiple CSVs of top 20 Google search queries per country.
+- Cleaned data — filled missing locations and search terms, converted dates to datetime.
+- Performed EDA using pandas, seaborn, and matplotlib to visualize top search locations, top search terms, word cloud, and search counts by period.
+- Built a Random Forest Classifier to predict search period (Morning/Evening) using location and top 10 search terms.
+- Built a CatBoost Classifier using location and top 20 search terms — all features treated as categorical.
+- Evaluated models — CatBoost achieved ~60% accuracy.
+- Demonstrated sample predictions using both models.
