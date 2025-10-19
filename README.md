@@ -27,3 +27,14 @@
 - Built a CatBoost Classifier using location and top 20 search terms — all features treated as categorical.
 - Evaluated models — CatBoost achieved ~60% accuracy.
 - Demonstrated sample predictions using both models.
+
+
+## AI-Powered Resume Screening — Job Fit Prediction
+
+- Loaded and explored a resume dataset with 1,000 records.
+- Cleaned missing certifications and standardized text fields like Skills, Education, and Job Role.
+- Visualized experience, salary, education, and AI score trends using charts.
+- Built a Random Forest model to predict if a candidate would be hired.
+- Tested my resume across all roles to see which roles have the highest chance of hire.
+- Output shows the best-fit job roles for my skills and experience.
+
