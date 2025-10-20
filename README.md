@@ -38,3 +38,13 @@
 - Tested my resume across all roles to see which roles have the highest chance of hire.
 - Output shows the best-fit job roles for my skills and experience.
 
+
+# TED Talks Analysis & Virality Prediction
+
+- Loaded and explored a TED Talks dataset with 4,641 records.
+- Cleaned missing numeric and text fields, converted durations to seconds, and extracted release date features.
+- Performed EDA to analyze top speakers, popular categories, view distributions, and engagement metrics.
+- Built an XGBoost model to predict viral talks (top 10% by views), achieving 98% accuracy.
+- Implemented a content-based recommendation system using TF-IDF and cosine similarity to suggest similar talks.
+- Tools used: Python, pandas, NumPy, matplotlib, seaborn, scikit-learn, XGBoost.
+
