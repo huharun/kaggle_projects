@@ -39,7 +39,7 @@
 - Output shows the best-fit job roles for my skills and experience.
 
 
-# TED Talks Analysis & Virality Prediction
+## TED Talks Analysis & Virality Prediction
 
 - Loaded and explored a TED Talks dataset with 4,641 records.
 - Cleaned missing numeric and text fields, converted durations to seconds, and extracted release date features.
