@@ -48,3 +48,18 @@
 - Implemented a content-based recommendation system using TF-IDF and cosine similarity to suggest similar talks.
 - Tools used: Python, pandas, NumPy, matplotlib, seaborn, scikit-learn, XGBoost.
 
+
+## Animal Face Classification
+
+- Loaded and explored the AFHQ dataset with cat, dog, and wild images.  
+- Applied image preprocessing and augmentation for training and validation.  
+- Built a ResNet18 model using transfer learning to classify animal faces.  
+- Trained the model for 5 epochs, achieving high accuracy on validation data.  
+- Implemented prediction for new images, displaying the animal class.  
+- Tools used: Python, PyTorch, torchvision, PIL, NumPy.
+
+
+
+
+
+
