@@ -44,7 +44,7 @@
 - Implemented a content-based recommendation system using TF-IDF and cosine similarity to suggest similar talks.
 - Tools used: Python, pandas, NumPy, matplotlib, seaborn, scikit-learn, XGBoost.
 
-## [Animal Face Classification](https://github.com/huharun/kaggle_projects/blob/main/image_sketch.ipynb)
+## [Animal Face Classification](https://www.kaggle.com/code/arunthangapalam/animal-face-classification)
 
 - Loaded and explored the AFHQ dataset with cat, dog, and wild images.  
 - Applied image preprocessing and augmentation for training and validation.  
